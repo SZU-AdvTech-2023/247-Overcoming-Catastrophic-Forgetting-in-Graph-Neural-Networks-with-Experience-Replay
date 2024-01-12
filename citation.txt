@@ -1,0 +1,9 @@
+@inproceedings{REPO247,
+    author = "Zhou, Fan and Cao, Chengtai",
+    booktitle = "Proceedings of the AAAI Conference on Artificial Intelligence",
+    number = "5",
+    pages = "4714--4722",
+    title = "{Overcoming Catastrophic Forgetting in Graph Neural Networks with Experience Replay}",
+    volume = "35",
+    year = "2021"
+}
